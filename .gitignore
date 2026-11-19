@@ -1,0 +1,15 @@
+node_modules
+.env
+.DS_Store
+.vscode
+
+/logs
+/out
+
+/tmp
+test.js
+/files
+# Added by Auto-Setup
+dist/
+build/
+

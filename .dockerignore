@@ -1,0 +1,11 @@
+.git
+.logs
+node_modules
+.config
+.husky
+.vscode
+.vs
+.DS_Store
+./out
+./tmp
+./db/schema.sql
